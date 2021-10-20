@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="首页"></item>
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="书籍推荐">
+
+    </item>
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="红色景点">
+
+    </item>
+    <item
+        android:id="@+id/item4"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="讨论区">
+    </item>
+</menu>
